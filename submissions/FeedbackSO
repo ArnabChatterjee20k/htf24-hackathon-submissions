@@ -1,0 +1,26 @@
+# Hackathon Submission: FeedbackSO
+
+## Project Title
+FeedbackSO
+
+## Project Description    
+FeedbackSO is a feedback management platform with solution easily integrable to other sites, easy sharing , single management platform , imports
+from other social-media and customisations.
+With its single management dashboard, you can monitor, respond to, and manage all your feedback from one centralized location.
+
+## Inspiration behind the Project  
+For one of my SaaS I created feedback system and then again I created it for another app and then I came to know about this same problem from
+others as well. So why not creating a single platform to manage all of these including social media imports.
+Additionally I used for one of my community event and it works at peak.
+
+## Tech Stack
+The technologies I used are next.js, appwrite, trigger dot dev and vercel.
+
+## Project Repo
+Live app - https://feedback-io-beta.vercel.app/
+Main app - https://github.com/ArnabChatterjee20k/FeedbackIO
+Widgets - https://github.com/ArnabChatterjee20k/feedbackio-widget
+Widget Examples - https://github.com/ArnabChatterjee20k/feedback-io-examples
+
+## Demo Video/Photos  
+https://youtu.be/wlEWSAAuB70
